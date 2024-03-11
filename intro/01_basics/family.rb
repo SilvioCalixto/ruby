@@ -12,5 +12,9 @@ age_sum = mom + dad + john + mary
 result = (mom * dad) / (john - mary)
 
 puts age_sum
-
 puts result
+
+
+puts 'Impressão reversa'
+puts result
+puts age_sum
