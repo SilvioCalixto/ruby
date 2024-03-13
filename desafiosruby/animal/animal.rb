@@ -7,4 +7,3 @@ class Animal
     puts 'ZzZzzzz!'
   end
 end
-
