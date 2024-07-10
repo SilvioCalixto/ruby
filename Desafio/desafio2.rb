@@ -1,4 +1,6 @@
 
+#Crie um script em Ruby que leia dois números inteiros e mostre a soma dos dois.
+
 print 'Digite um número: '
 
 numero = gets.chomp.to_i
